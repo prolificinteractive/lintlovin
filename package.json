@@ -31,6 +31,7 @@
   "peerDependencies": {
     "grunt": "~0.4.5",
     "istanbul": "~0.3.0",
+    "husky": "git+ssh://git@github.com:conord33/husky.git#master",
     "mocha": ">=1.21.4-0 <3.0.0-0"
   },
   "devDependencies": {
