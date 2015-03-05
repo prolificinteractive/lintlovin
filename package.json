@@ -31,13 +31,13 @@
   "peerDependencies": {
     "grunt": "~0.4.5",
     "istanbul": "~0.3.0",
-    "husky": "git+https://github.com/conord33/husky.git#master",
+    "husky": "~0.7.0",
     "mocha": ">=1.21.4-0 <3.0.0-0"
   },
   "devDependencies": {
     "chai": "^2.0.0",
     "grunt": "~0.4.5",
-    "husky": "git+https://github.com/conord33/husky.git#master",
+    "husky": "~0.7.0",
     "js-yaml": "^3.2.1",
     "mocha": ">=1.21.4-0 <3.0.0-0"
   }
